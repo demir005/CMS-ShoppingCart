@@ -1,0 +1,98 @@
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\roslyn\csc.exe
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\roslyn\vbc.exe
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\roslyn\VBCSCompiler.exe
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\CMSShoppingCard.dll.config
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\CMSShoppingCard.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\CMSShoppingCard.pdb
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\Antlr3.Runtime.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\EntityFramework.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\EntityFramework.SqlServer.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\Newtonsoft.Json.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\PagedList.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\PagedList.Mvc.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Helpers.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Mvc.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Optimization.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Razor.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.WebPages.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.WebPages.Razor.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\WebGrease.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\EntityFramework.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\EntityFramework.SqlServer.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\PagedList.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\PagedList.Mvc.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Helpers.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Mvc.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Optimization.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Razor.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.WebPages.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\System.Web.WebPages.Razor.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\Antlr3.Runtime.pdb
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\bin\Newtonsoft.Json.xml
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\obj\Debug\CMSShoppingCard.dll
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\obj\Debug\CMSShoppingCard.pdb
+C:\Users\denni\onedrive\documents\visual studio 2015\Projects\CMSShoppingCard\CMSShoppingCard\obj\Debug\CMSShoppingCard.csprojResolveAssemblyReference.cache
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\roslyn\csc.exe
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\roslyn\vbc.exe
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\roslyn\VBCSCompiler.exe
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\CMSShoppingCard.dll.config
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\CMSShoppingCard.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\CMSShoppingCard.pdb
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\Antlr3.Runtime.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\EntityFramework.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\EntityFramework.SqlServer.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\Newtonsoft.Json.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\PagedList.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\PagedList.Mvc.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Helpers.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Mvc.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Optimization.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Razor.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.WebPages.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.WebPages.Razor.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\WebGrease.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\EntityFramework.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\EntityFramework.SqlServer.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\PagedList.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\PagedList.Mvc.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Helpers.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Mvc.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Optimization.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.Razor.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.WebPages.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\System.Web.WebPages.Razor.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\Antlr3.Runtime.pdb
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\bin\Newtonsoft.Json.xml
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\obj\Debug\CMSShoppingCard.csprojAssemblyReference.cache
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\obj\Debug\CMSShoppingCard.csproj.CoreCompileInputs.cache
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\obj\Debug\CMSShoppingCard.csproj.CopyComplete
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\obj\Debug\CMSShoppingCard.dll
+C:\Users\Demir\Downloads\CMSShoppingCard\CMSShoppingCard\obj\Debug\CMSShoppingCard.pdb
